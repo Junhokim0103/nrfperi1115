@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "segger_rtt.h": "c",
+        "gpio.h": "c"
+    }
+}
